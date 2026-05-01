@@ -1,0 +1,3 @@
+GET https://api.ravelry.com/patterns/search.json?page_size=500&page=1&fibertype=silk
+Content-Type: application/json
+Authorization: Basic 0aba9df92b9fd51d853f6784ea5c3e81:54OSZBskYnYitSMO_s_o5-o0OuDrxOPVvG9ic5bA

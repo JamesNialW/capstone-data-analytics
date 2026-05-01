@@ -1,0 +1,3 @@
+GET https://api.ravelry.com/patterns.json?ids=7437756+7424397+857493+754478+7341474
+Content-Type: application/json
+Authorization: Basic 0aba9df92b9fd51d853f6784ea5c3e81:54OSZBskYnYitSMO_s_o5-o0OuDrxOPVvG9ic5bA
