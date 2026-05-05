@@ -27,7 +27,7 @@ This project uses real-world data from Ravelry (via the public API) and applies 
 
 
 ## How to Reproduce:
-PLEASE NOTE: The category columns (`supercategory`, `category`, `subcategory`, and `babycategory`) have known data quality issues which I believe originate in the API collection phase (`rav.py` file). Therefore, they are of limited useability in their current state and are extremely unreliable. If they are important for you use case, you will need to troubleshoot the data quality issues.
+PLEASE NOTE: The category columns (`supercategory`, `category`, `subcategory`, and `babycategory`) have known data quality issues which I believe originate in the API collection phase (`rav.py` file). Therefore, they are of limited useability in their current state and are extremely unreliable. If they are important for your use case, you will need to troubleshoot the data quality issues.
 
 Additionally, most of these scripts take several hours to run, and the API collection scripts specifically can take up to 3 days to run. Some of the models are hardcoded with n_jobs = 1, so if you have access to a more powerful machine, make sure to change that.
 
